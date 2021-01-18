@@ -12,7 +12,7 @@ namespace Calısma
 
             int number = 1;
             switch (number)
-            { 
+            {   
 
 
                 case 1:
